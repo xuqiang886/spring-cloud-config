@@ -1,2 +1,2 @@
-config:
-  info: main branch
+server:
+  port: 3355
